@@ -1,2 +1,4 @@
 Hi 
 My name is Tan
+
+I'm learning GIT
